@@ -1,0 +1,149 @@
+# depslib dependency file v1.0
+1556471208 source:f:\ahe\podstawy programowania 2\sem2workspace\obiektowe1\main.cpp
+	<iostream>
+	<string>
+	<Pojazd.h>
+	<Samolot.h>
+
+1556450474 f:\ahe\podstawy programowania 2\sem2workspace\obiektowe1\pojazd.h
+	<iostream>
+
+1556470688 source:f:\ahe\podstawy programowania 2\sem2workspace\obiektowe1\src\pojazd.cpp
+	"Pojazd.h"
+	<iostream>
+
+1556471094 f:\ahe\podstawy programowania 2\sem2workspace\obiektowe1\include\pojazd.h
+	<string>
+
+1556471200 source:f:\ahe\podstawy programowania 2\sem2workspace\obiektowe1\src\samolot.cpp
+	"Samolot.h"
+	<iostream>
+
+1556471128 f:\ahe\podstawy programowania 2\sem2workspace\obiektowe1\include\samolot.h
+	<Pojazd.h>
+
+1606406834 source:c:\users\dominik\desktop\zadanieob\src\samolot.cpp
+	"Samolot.h"
+	<iostream>
+
+1604441596 c:\users\dominik\desktop\zadanieob\include\samolot.h
+	<Pojazd.h>
+
+1604443400 c:\users\dominik\desktop\zadanieob\include\pojazd.h
+	<string>
+
+1606405871 source:c:\users\dominik\desktop\zadanieob\main.cpp
+	<iostream>
+	<string>
+	<Pojazd.h>
+	<Samolot.h>
+	<MOTOROWKA.h>
+	<MOTOCYKL.h>
+
+1606326084 c:\users\dominik\desktop\zadanieob\include\motorowka.h
+	<Pojazd.h>
+
+1604497216 c:\users\dominik\desktop\zadanieob\include\motocykl.h
+	<Pojazd.h>
+
+1606406794 source:c:\users\dominik\desktop\zadanieob\src\motocykl.cpp
+	"MOTOCYKL.h"
+	<iostream>
+
+1606406815 source:c:\users\dominik\desktop\zadanieob\src\motorowka.cpp
+	"MOTOROWKA.h"
+	<iostream>
+
+1606406870 source:c:\users\dominik\desktop\zadanieob\src\pojazd.cpp
+	"Pojazd.h"
+	<iostream>
+
+1608462397 source:x:\users\tomek\onedrive\pulpit\zadanieob\main.cpp
+	<iostream>
+	<string>
+	<Pojazd.h>
+	<Samolot.h>
+	<MOTOROWKA.h>
+	<MOTOCYKL.h>
+
+1608463298 x:\users\tomek\onedrive\pulpit\zadanieob\include\pojazd.h
+	<string>
+
+1604441596 x:\users\tomek\onedrive\pulpit\zadanieob\include\samolot.h
+	<Pojazd.h>
+
+1606326084 x:\users\tomek\onedrive\pulpit\zadanieob\include\motorowka.h
+	<Pojazd.h>
+
+1604497216 x:\users\tomek\onedrive\pulpit\zadanieob\include\motocykl.h
+	<Pojazd.h>
+
+1606406794 source:x:\users\tomek\onedrive\pulpit\zadanieob\src\motocykl.cpp
+	"MOTOCYKL.h"
+	<iostream>
+
+1606406815 source:x:\users\tomek\onedrive\pulpit\zadanieob\src\motorowka.cpp
+	"MOTOROWKA.h"
+	<iostream>
+
+1606406870 source:x:\users\tomek\onedrive\pulpit\zadanieob\src\pojazd.cpp
+	"Pojazd.h"
+	<iostream>
+
+1606406834 source:x:\users\tomek\onedrive\pulpit\zadanieob\src\samolot.cpp
+	"Samolot.h"
+	<iostream>
+
+1608461556 source:x:\users\tomek\onedrive\pulpit\zadanieob\include\samochod.cpp
+
+1608463029 source:x:\users\tomek\onedrive\pulpit\zadanieob\src\samochod.cpp
+	"SAMOCHOD.H"
+	<iostream>
+
+1608463132 x:\users\tomek\onedrive\pulpit\zadanieob\include\samochod.h
+	<Pojazd.h>
+
+1608461556 source:x:\users\tomek\onedrive\pulpit\zadanie 1 programowanie obiektowe\include\samochod.cpp
+
+1608485099 source:x:\users\tomek\onedrive\pulpit\zadanie 1 programowanie obiektowe\src\motocykl.cpp
+	"MOTOCYKL.h"
+	<iostream>
+	<Pojazd.h>
+
+1608484847 x:\users\tomek\onedrive\pulpit\zadanie 1 programowanie obiektowe\include\motocykl.h
+	<Pojazd.h>
+
+1608478394 x:\users\tomek\onedrive\pulpit\zadanie 1 programowanie obiektowe\include\pojazd.h
+	<string>
+
+1608488304 source:x:\users\tomek\onedrive\pulpit\zadanie 1 programowanie obiektowe\src\samochod.cpp
+	"SAMOCHOD.H"
+	<Pojazd.h>
+	<iostream>
+
+1608488095 x:\users\tomek\onedrive\pulpit\zadanie 1 programowanie obiektowe\include\samochod.h
+	<Pojazd.h>
+
+1608486349 source:x:\users\tomek\onedrive\pulpit\zadanie 1 programowanie obiektowe\src\samolot.cpp
+	"Samolot.h"
+	<Pojazd.h>
+	<iostream>
+
+1608486239 x:\users\tomek\onedrive\pulpit\zadanie 1 programowanie obiektowe\include\samolot.h
+	<Pojazd.h>
+
+1608488813 source:x:\users\tomek\onedrive\pulpit\zadanie 1 programowanie obiektowe\main.cpp
+	<iostream>
+	<string>
+	<Pojazd.h>
+	<SAMOLOT.H>
+	<MOTOCYKL.h>
+	<SAMOCHOD.H>
+
+1606326084 x:\users\tomek\onedrive\pulpit\zadanie 1 programowanie obiektowe\include\motorowka.h
+	<Pojazd.h>
+
+1608485074 source:x:\users\tomek\onedrive\pulpit\zadanie 1 programowanie obiektowe\src\pojazd.cpp
+	"Pojazd.h"
+	<iostream>
+
