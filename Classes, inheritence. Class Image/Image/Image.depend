@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1608508092 source:x:\users\tomek\onedrive\pulpit\zadanie2\image\main.cpp
+	<iostream>
+	"Image.hpp"
+
+1608507999 source:x:\users\tomek\onedrive\pulpit\zadanie2\image\src\image.cpp
+	<iostream>
+	<cstring>
+	"Image.hpp"
+	<stdlib.h>
+
+1608507224 x:\users\tomek\onedrive\pulpit\zadanie2\image\include\image.hpp
+	<iostream>
+
+1608235066 source:c:\users\ragnar\desktop\zadanie2\image\main.cpp
+	<iostream>
+	"Image.hpp"
+
+1608238410 c:\users\ragnar\desktop\zadanie2\image\include\image.hpp
+	<iostream>
+
+1608238410 source:c:\users\ragnar\desktop\zadanie2\image\src\image.cpp
+	<cstring>
+	"Image.hpp"
+	<stdlib.h>
+
+1608464484 source:x:\users\tomek\onedrive\pulpit\zadanie2\zadanie2\image\main.cpp
+	<iostream>
+	"Image.hpp"
+
+1608465421 x:\users\tomek\onedrive\pulpit\zadanie2\zadanie2\image\include\image.hpp
+	<iostream>
+
+1608465172 source:x:\users\tomek\onedrive\pulpit\zadanie2\zadanie2\image\src\image.cpp
+	<cstring>
+	"Image.hpp"
+	<stdlib.h>
+
+1608506984 source:x:\users\tomek\onedrive\pulpit\zadanie2\zadanie2 ver 2\image\main.cpp
+	<iostream>
+	"Image.hpp"
+
+1608506241 x:\users\tomek\onedrive\pulpit\zadanie2\zadanie2 ver 2\image\include\image.hpp
+	<iostream>
+
+1608503705 source:x:\users\tomek\onedrive\pulpit\zadanie2\zadanie2 ver 2\image\src\image.cpp
+	<iostream>
+	<cstring>
+	"Image.hpp"
+	<stdlib.h>
+
+1608508092 source:g:\najwazniejsze\dokumenty tomka\studia informatyka ahe\iii semestr\programowanie obiektowe cz i\programowanie obiektowe zadanie 2 v3\image\main.cpp
+	<iostream>
+	"Image.hpp"
+
+1608507224 g:\najwazniejsze\dokumenty tomka\studia informatyka ahe\iii semestr\programowanie obiektowe cz i\programowanie obiektowe zadanie 2 v3\image\include\image.hpp
+	<iostream>
+
+1608508150 source:g:\najwazniejsze\dokumenty tomka\studia informatyka ahe\iii semestr\programowanie obiektowe cz i\programowanie obiektowe zadanie 2 v3\image\src\image.cpp
+	<iostream>
+	<cstring>
+	"Image.hpp"
+	<stdlib.h>
+
+1608508092 source:d:\najwazniejsze\dokumenty tomka\studia informatyka ahe\iii semestr\programowanie obiektowe cz i\programowanie obiektowe zadanie 2 v3\image\main.cpp
+	<iostream>
+	"Image.hpp"
+
+1608507224 d:\najwazniejsze\dokumenty tomka\studia informatyka ahe\iii semestr\programowanie obiektowe cz i\programowanie obiektowe zadanie 2 v3\image\include\image.hpp
+	<iostream>
+
+1608508150 source:d:\najwazniejsze\dokumenty tomka\studia informatyka ahe\iii semestr\programowanie obiektowe cz i\programowanie obiektowe zadanie 2 v3\image\src\image.cpp
+	<iostream>
+	<cstring>
+	"Image.hpp"
+	<stdlib.h>
+
