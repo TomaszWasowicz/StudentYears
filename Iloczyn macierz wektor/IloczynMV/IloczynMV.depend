@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1572110465 source:c:\users\ragnar\documents\c++projects\iloczynmv\main.cpp
+	<iostream>
+	<time.h>
+	<windows.h>
+	<cstdio>
+
+1572106866 source:c:\users\huawei\documents\c++data\iloczynmv\main.cpp
+	<iostream>
+	<time.h>
+	<windows.h>
+	<cstdio>
+
